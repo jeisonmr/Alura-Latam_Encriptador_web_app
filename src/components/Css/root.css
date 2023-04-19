@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+:root {
+  /* Fonts*/
+  --font-1: 'Inter', sans-serif;
+  /* Colors */
+  --cl-1: #ffffff;
+  --cl-2: #0A3871;
+  --cl-3: #D8DFE8;
+  --cl-4: #F3F5FC;
+  --cl-5: #1d1d1d;
+}
+
+/*
+xs <576px = Celulares
+sm ≥576px = Tablet
+md ≥768px = Laptop
+lg ≥992px = Desktop
+xl ≥1200px = 2K
+xxl ≥1400px = 4K
+*/
